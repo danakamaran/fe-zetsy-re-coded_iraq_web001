@@ -34,7 +34,7 @@ body {
 
 /* Write all remaining styles here */
 .border{
-  border: 5px solid gray;
+  border: 2px solid gray;
 }
 .copyright{
   float: right;
