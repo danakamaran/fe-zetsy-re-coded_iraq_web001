@@ -3,12 +3,12 @@
   font-family: dana;
   src: url(./Fonts/Baskerville.ttc);
   font-weight: bold;
-  color: gray;
 }
 
 /* link the web font used for the level 1 heading here */
 h1{
   font-family: dana;
+  color: gray;
   
 }
 
