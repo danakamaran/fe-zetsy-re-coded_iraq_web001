@@ -1,6 +1,7 @@
 /*////////////// Fonts //////////////*/
-@font-famce{
-  
+@font-face{
+  font-family: dana;
+  src: url(sansation_light.woff);
 }
 
 /* link the web font used for the level 1 heading here */
