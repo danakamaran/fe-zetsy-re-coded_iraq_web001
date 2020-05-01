@@ -4,6 +4,11 @@
   src: url(./Fonts/Baskerville.ttc);
   
 }
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 /* link the web font used for the level 1 heading here */
 h1{
@@ -27,7 +32,7 @@ body {
 
 .wrapper {
 	width: 960px;
-	height: 100vh;
+	height: 100%;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
