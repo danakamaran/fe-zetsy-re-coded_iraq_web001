@@ -36,6 +36,9 @@ body {
 .border{
   border: 3px solid gray;
 }
+.hover:hover{
+  border: 3px solid black;
+}
 
 .copyright{
   float: right;
